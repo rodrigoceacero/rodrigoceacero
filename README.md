@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Ceacero Arellano
-- 👀 I’m interested in backend and frontend
-- 🌱 I’m currently learning web development in Spain, which englobe JavaScript with React, PHP with Symfony, HTML, CSS...
+- 👀 I’m interested in backend, frontend, Artificial Intelligence & Big Data
+- 🌱 I’m currently learning web development in Spain, which englobe JavaScript with React, PHP with Symfony, HTML, CSS. Also I'm learning about Artificial Intelligence and Big Data.
 - 📫 How to reach me: rodrigo.ceare@gmail.com
 
 <!---
