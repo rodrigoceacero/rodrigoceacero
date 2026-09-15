@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Rodrigo Ceacero Arellano
-- 👀 I’m interested in backend, frontend, Artificial Intelligence & Big Data
-- 🌱 I’m currently learning web development in Spain, which englobe JavaScript with React, PHP with Symfony, HTML, CSS. Also I'm learning about Artificial Intelligence and Big Data.
-- 📫 How to reach me: rodrigo.ceare@gmail.com
+- 👋 Hola, soy Rodrigo Ceacero Arellano, Técnico en Desarrollo de Aplicaciones Web y Especialista en Inteligencia Artificial y Big Data. 
+- 👀 Estoy interesado en sectores de la tecnología como lo son el desarrollo web y la inteligencia artificial.
+- 🌱 Actualmente estoy en busca de un trabajo en el que poder explotar mis habilidades.
+- 📫 Para contactar conmigo:
+      - Correo: rceaceroa.dev@gmail.com
+      - (LinkedIn): [www.linkedin.com/in/rodrigo-ceacero-arellano-561036316]
 
 <!---
 rodrigoceacero/rodrigoceacero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
